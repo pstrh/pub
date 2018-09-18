@@ -2,7 +2,6 @@
 
 ## List of references
 
-
 | Date (Initial Release / First mentioned) | Framework or Technology | References |
 | --- | --- | --- |
 | 1995 - May   | JavaScript   |  https://en.wikipedia.org/wiki/JavaScript | 
@@ -36,8 +35,7 @@
 | 2015 | Babel | Transpiler JavaScript Code mit ES 6-Sprachfeature nach ES 5 |
 | 2015 | PWA | In 2015, designer Frances Berriman and Google Chrome engineer Alex Russell coined the term "progressive web apps". https://en.wikipedia.org/wiki/Progressive_web_app  iOS/Safari-Support für PWAs: https://www.heise.de/developer/artikel/iOS-11-3-Willkommen-Progressive-Web-Apps-3960706.html https://www.heise.de/developer/meldung/Webentwicklung-Microsoft-zieht-bei-Progressive-Web-Apps-nach-3962096.html
 | 2016 - Juni |	ES 2016 | |	 
-| 2016 - September | Angular | Ein Rewrite von AngularJS. Auch als Angular 2 bezeichnet, ist es im Prinzip ein neues JS-Framework entwickelt von den AngularJS-Machern. Zentrales Architektur-Konzept: Komponenten zentriert, die UI wird aus einer Hierarchie von Komponenten erstellt (wie React, Vue) 
-https://en.wikipedia.org/wiki/Angular_(application_platform) |
+| 2016 - September | Angular | Ein Rewrite von AngularJS. Auch als Angular 2 bezeichnet, ist es im Prinzip ein neues JS-Framework entwickelt von den AngularJS-Machern. Zentrales Architektur-Konzept: Komponenten zentriert, die UI wird aus einer Hierarchie von Komponenten erstellt (wie React, Vue) https://en.wikipedia.org/wiki/Angular_(application_platform) |
 | 2017 - Juni |	ES 2017 | | 
 | 2017 / 2018 |	Stencil (BETA) | Framework zur Erstellung von Web Components von den Ionic-Machern. Durch das Framework wird Ionic unabhängig von Angular. Ionic-Komponenten werden reine Web Components. Ionic-Komponenten können dann auch mit React oder Vue genutzt werden. Das Framework nutzt TypeScript und JSX. Ähnlich wie React setzt es auf Virtual DOM, um Änderungen in den DOM-Baum zu übertragen.  https://blog.ionicframework.com/announcing-the-ionic-pwa-toolkit-beta/|
 
@@ -61,4 +59,29 @@ https://github.com/facebook/react/wiki/sites-using-react
 
 https://www.thoughtworks.com/de/radar/languages-and-frameworks
 
+
+https://electronjs.org/docs/tutorial/application-architecture
+
+
+Electron: https://electronjs.org/apps  (GitHub Atom, Visual Studio Code, Slack, Skype, Mattermost )
+
+JQuery: https://www.evolutionjobs.com/uk/media/the-rise-and-fall-of-jquery-117981/
+
+https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/
+
+https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
+
+https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/
+
+https://developer.microsoft.com/en-us/windows/pwa
+
+https://blogs.windows.com/msedgedev/2018/05/22/get-started-web-push-notifications-tutorial-demo/
+
+https://angular.io/guide/elements
+
+[https://t3n.de/magazin/nodejs-javascript-server-revolutioniert-schubrakete-226177 und http://webkrauts.de/artikel/2011/serverseitiges-javascript-mit-nodejs] 
+
+https://github.com/tc39/proposals
+
+https://hackernoon.com/the-status-of-javascript-libraries-frameworks-2018-beyond-3a5a7cae7513
 
